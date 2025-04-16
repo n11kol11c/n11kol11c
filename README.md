@@ -8,7 +8,7 @@
 - 📫 Reach me on Discord: **n11kol1c**
 
 <p>
-    <i>I'm a passionate GreyHat hacker and an administrator at ZeroByte (ZByte), an organization dedicated to exploring the boundaries of cybersecurity and ethical hacking. Our task is to create various exploits and find holes and flaws in the very labyrinths of the dark web. Therefore, we are accurate and unerring in our goal, doing it all anonymously leaving no trace behind.
+    <i>I'm a passionate administrator at ZeroByte (ZByte), an organization dedicated to exploring the boundaries of GreyHat cybersecurity and ethical hacking. Our task is to create various exploits and find holes and flaws in the very labyrinths of the dark web. Therefore, we are accurate and unerring in our goal, doing it all anonymously leaving no trace behind.
 </i>
 <p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" hspace="5" />  
