@@ -8,8 +8,8 @@
 - 📫 Reach me on Discord: **n11kol1c**
 
 <p>
-    <i>I'm a programmer who works across different areas of development, from web applications to scripts and tools that solve real-world problems. I focus on learning new technologies, writing clean code, and building projects that are practical and efficient. Whether it's front-end, back-end, or anything in between, I aim to create solutions that work well and have real impact.
-</i>
+    <b>I'm a programmer who works across different areas of development, from web applications to scripts and tools that solve real-world problems. I focus on learning new technologies, writing clean code, and building projects that are practical and efficient. Whether it's front-end, back-end, or anything in between, I aim to create solutions that work well and have real impact.
+</b>
 
 <div align="left">
   <img src="langs.png" alt="tools" width="500">
