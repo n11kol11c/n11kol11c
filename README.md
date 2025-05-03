@@ -17,8 +17,8 @@
 </p>
 
 <h3>Distributions:</h3>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" alt="archlinux"   width="40" height="40" />
-    <img src="https://smartechmolabs.com/wp-content/uploads/2024/08/kalilinux.svg" alt="archlinux"   width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" alt="archlinux" width="40" height="40" />
+    <img src="https://smartechmolabs.com/wp-content/uploads/2024/08/kalilinux.svg" alt="archlinux" width="40" height="40" />
 <p>
 
 <h3>Languages:</h3>
