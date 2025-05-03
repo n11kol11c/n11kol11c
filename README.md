@@ -12,7 +12,7 @@
 </i>
 
 <div align="center">
-  <img src="langs.png" alt="tools" width="400">
+  <img src="langs.png" alt="tools" width="600">
 </div>
 
 ![](https://github-readme-stats.vercel.app/api?username=n11kol11c&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
