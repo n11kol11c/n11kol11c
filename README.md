@@ -19,7 +19,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg" alt="windows" width="40" height="40" hspace="5" />
 </p>
   </div>
-  <div align="right" style="width: 45%;">
+  <div class="right" style="width: 45%;">
     <h3>Distributions:</h3>
 <p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" alt="archlinux" width="40" height="40">
