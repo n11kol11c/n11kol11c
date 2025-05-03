@@ -11,8 +11,8 @@
     <i>I'm a passionate administrator at ZeroByte (ZByte), an organization dedicated to exploring the boundaries of GreyHat cybersecurity. Our task is to create various exploits and find holes and flaws in the very labyrinths of the web. Therefore, we are accurate and unerring in our goal, doing it all anonymously leaving no trace behind.
 </i>
 
-<div align="center">
-  <img src="langs.png" alt="tools" width="600">
+<div align="left">
+  <img src="langs.png" alt="tools" width="500">
 </div>
 
 ![](https://github-readme-stats.vercel.app/api?username=n11kol11c&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
