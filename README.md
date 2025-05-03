@@ -8,7 +8,7 @@
 <br>
     
 - 🔭 I’m currently working on: [KumOS](https://github.com/TodorW/ZephyrOS)!
-- 
+
 - 📫 Reach me on Discord: **n11kol1c**
 
 <div align="left">
