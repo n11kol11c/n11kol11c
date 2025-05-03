@@ -43,6 +43,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-original.svg" alt="aftereffects"    width="40" height="40" hspace="5" /> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="photoshop" width="40"  height="40" hspace="5" /> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" alt="illustrator" width="40"   height="40" hspace="5" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro" alt="premierepro" width="40"   height="40" hspace="5" />
 </p>
 
 <h3>Web:</h3>
