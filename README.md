@@ -28,14 +28,14 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" hspace="5" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"alt="cplusplus" width="40" height="40" hspace="5" /> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"alt="python" width="40" height="40" hspace="5" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"width="40" height="40" hspace="5" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" hspace="5" />
 </p>
 <p>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="40" height="40" hspace="5" />
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fsharp/fsharp-original.svg" alt="fsharp" width="40" height="40" hspace="5" />
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40" hspace="5" /> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40" hspace="5" /> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fortran/fortran-original.svg"alt="fortran" width="40"  height="40" hspace="5" />
+        <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/fortran/fortran-original.svg](https://media.licdn.com/dms/image/v2/D4D12AQEM9F_-u1OT5Q/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1658763190886?e=2147483647&v=beta&t=aEp72fzTRZC_0EilFbT0wVV2jw6O-Bqt759qLG4pLrw)" alt="asm" width="40"  height="40" hspace="5" />
 </p>
 
 <h3>Tools:</h3>
