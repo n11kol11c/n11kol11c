@@ -10,9 +10,7 @@
 
 - 📫 Reach me on Discord: **n11kol1c**
 
-<div align="left">
-  <img src="langs.png" alt="tools" width="370">
-</div>
+- Languages that i use: [Click Here!](technologies.md)
 
 ![](https://github-readme-stats.vercel.app/api?username=n11kol11c&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=n11kol11c&theme=dark&hide_border=false)<br/>
