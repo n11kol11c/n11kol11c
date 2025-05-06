@@ -13,5 +13,5 @@
 - Languages that i use: [Click Here!](technologies.md)
 
 - Info about profile commits and uploads: [Click Here!](info.md)
-- 
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=n11kol11c&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
