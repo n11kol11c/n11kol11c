@@ -10,8 +10,8 @@
  
 - Reach me on Gmail: **nmatija080@gmail.com**
 
-- Languages that i use: [Click Here!](technologies.md)
+- [Languages that i use](technologies.md)
 
-- Info about profile commits and uploads: [Click Here!](info.md)
+- [Info about profile commits and uploads](info.md)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=n11kol11c&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
