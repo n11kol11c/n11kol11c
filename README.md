@@ -5,7 +5,7 @@
     <b>I'm a fullstack programmer who works across different areas of development, from web applications to scripts and tools that solve real-world problems.
 </b> 
 <br>
-    
+
 - I’m currently working on: [KumOS](https://github.com/TodorW/ZephyrOS)!
  
 - Reach me on Gmail: **nmatija080@gmail.com**
