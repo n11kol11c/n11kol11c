@@ -2,7 +2,7 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=tkemza&label=Profile%20views&color=0e75b6&style=flat" alt="tkemza" /></p>
 <p>
-    <b>I'm a fullstack programmer who works across different areas of development, from web applications to scripts and tools that solve real-world problems.
+    <b>I'm a fullstack programmer who works across different areas of development, from web applications to scripts and tools.
 </b> 
 <br>
 
