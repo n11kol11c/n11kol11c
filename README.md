@@ -8,7 +8,7 @@
 
 - I’m currently working on: [KumOS](https://github.com/TodorW/ZephyrOS)!
  
-- Reach me on Gmail: **nmatija080@gmail.com**
+- Reach me on: **nmatija080@gmail.com**
 
 - [Languages that I use](technologies.md)
 
