@@ -6,7 +6,7 @@
 </b> 
 <br>
 
-- I’m currently working on: [KumOS](https://github.com/TodorW/ZephyrOS)!
+- I'm currently working on: [KumOS](https://github.com/TodorW/ZephyrOS)!
  
 - Reach me on: **nmatija080@gmail.com**
 
