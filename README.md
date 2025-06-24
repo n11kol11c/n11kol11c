@@ -6,7 +6,7 @@
 </b> 
 <br>
 
-- I'm currently working on: [KumOS](https://github.com/TodorW/ZephyrOS) and [GTAV Scripts](https://github.com/n11kol11c/gta-scripts)!
+- I'm currently working on: [KumOS](https://github.com/TodorW/ZephyrOS) and [FiveM Server](https://github.com/vexstate)!
  
 - Reach me on: **nmatija080@gmail.com**
 
