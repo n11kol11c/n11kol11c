@@ -6,16 +6,16 @@
 </b> 
 <br>
 
-I'm currently working on: 
+**I'm currently working on:**
 
-- [Vexstate MP](https://github.com/vexstate)
-- [X11dwm](https://github.com/n11kol11c/X11dwm.git)
-- [KumOS](https://github.com/TodorW/ZephyrOS)
+- [_Vexstate MP_](https://github.com/vexstate)
+- [_X11dwm_](https://github.com/n11kol11c/X11dwm.git)
+- [_KumOS_](https://github.com/TodorW/ZephyrOS)
 
-Reach me on: **nmatija080@gmail.com**
+**Reach me on: nmatija080@gmail.com**
 
-[Languages that I use](technologies.md)
+[_langs_](technologies.md)
 
-[Info about my profile commits and uploads](info.md)
+[_Info about my profile commits and uploads_](info.md)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=n11kol11c&layout=compact&theme=dark&hide_border=true&cache_seconds=60)
