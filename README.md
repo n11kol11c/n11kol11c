@@ -14,4 +14,4 @@
 
 - [Info about my profile commits and uploads](info.md)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=n11kol11c&layout=compact&theme=dark&hide_border=true&count_private=true&cache_seconds=60)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=n11kol11c&layout=compact&theme=dark&hide_border=true&count_private=true&cache_seconds=60&exclude_repo=X11dwm)
