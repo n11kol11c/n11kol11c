@@ -13,13 +13,12 @@
 - [_KumOS_](https://github.com/TodorW/ZephyrOS)
 
 **Reach me on: nmatija080@gmail.com**
+**Info about my profile commits and uploads:** [View](info.md)
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-89e051?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-6E4B3C?style=for-the-badge&logo=linux&logoColor=white) <!-- Placeholder with Linux logo -->
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-
-[_Info about my profile commits and uploads_](info.md)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=n11kol11c&layout=compact&theme=dark&hide_border=true&cache_seconds=60)
