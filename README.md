@@ -13,6 +13,7 @@
 - [_KumOS_](https://github.com/TodorW/ZephyrOS)
 
 **Reach me on: nmatija080@gmail.com**
+
 **Info about my profile commits and uploads:** [View](info.md)
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
