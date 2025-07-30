@@ -12,8 +12,6 @@
 - [_X11dwm_](https://github.com/n11kol11c/X11dwm.git)
 - [_KumOS_](https://github.com/TodorW/ZephyrOS)
 
-**_Reach me on:_ nmatija080@gmail.com**
-
 **_Info about my profile commits and uploads:_** [View](info.md)
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
