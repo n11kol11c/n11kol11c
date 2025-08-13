@@ -11,6 +11,7 @@
 - [_Vexstate MP_](https://github.com/vexstate)
 - [_X11dwm_](https://github.com/n11kol11c/X11dwm.git)
 - [_KumOS_](https://github.com/TodorW/ZephyrOS)
+- [_smb-NES6502_]() - **Access is restricted and privated**
 
 **_Info about my profile commits and uploads:_** [View](info.md)
 
