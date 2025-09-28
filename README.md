@@ -14,7 +14,7 @@
 ![Assembly](https://img.shields.io/badge/Assembly-6E4B3C?style=for-the-badge&logo=linux&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![PHP](https://img.shields.io/badge/Php-00599C?style=for-the-badge&logo=php&logoColor=black)
+![PHP](https://img.shields.io/badge/Php-00599C?style=for-the-badge&logo=php&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
