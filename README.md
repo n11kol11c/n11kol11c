@@ -11,7 +11,7 @@
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-89e051?style=for-the-badge&logo=gnu-bash&logoColor=black)
-![Assembly](https://img.shields.io/badge/Assembly-6E4B3C?style=for-the-badge&logo=linux&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-6E4B3C?style=for-the-badge&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![PHP](https://img.shields.io/badge/Php-00599C?style=for-the-badge&logo=php&logoColor=white)
