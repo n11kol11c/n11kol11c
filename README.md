@@ -7,7 +7,7 @@
 - [_X11dwm_](https://github.com/n11kol11c/X11dwm.git)
 - [_KumOS_](https://github.com/TodorW/ZephyrOS)
 - [_smb-NES6502_](https://github.com/n11kol11c/smb-NES6502)
-- [View](info.md)
+- [_About Page_](info.md)
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-89e051?style=for-the-badge&logo=gnu-bash&logoColor=white)
