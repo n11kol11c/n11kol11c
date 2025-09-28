@@ -2,8 +2,6 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=tkemza&label=Profile%20views&color=0e75b6&style=flat" alt="tkemza" /></p>
 <p>
-    <b>I'm a fullstack programmer who works across different areas of development, from web applications to scripts and tools.
-</b> 
 <br>
 
 **I'm currently working on:**
@@ -11,7 +9,7 @@
 - [_Vexstate MP_](https://github.com/vexstate)
 - [_X11dwm_](https://github.com/n11kol11c/X11dwm.git)
 - [_KumOS_](https://github.com/TodorW/ZephyrOS)
-- [_smb-NES6502_](https://github.com/n11kol11c/smb-NES6502) - **Access is restricted and privated**
+- [_smb-NES6502_](https://github.com/n11kol11c/smb-NES6502)
 
 **_Info about my profile commits and uploads:_** [View](info.md)
 
