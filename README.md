@@ -8,6 +8,7 @@
 - **Learning**: _Kotlin_, _Rust_, _Ruby_
 
 > [_Vexstate MP_](https://github.com/vexstate)
+
 > [_X11dwm_](https://github.com/n11kol11c/X11dwm.git)
 > [_KumOS_](https://github.com/TodorW/ZephyrOS)
 > [_smb-NES6502_](https://github.com/n11kol11c/smb-NES6502)
