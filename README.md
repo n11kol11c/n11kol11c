@@ -3,6 +3,9 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=tkemza&label=Profile%20views&color=0e75b6&style=flat" alt="tkemza" /></p>
 <p>
 
+- **Currently working on _Vextstate Framework_**: [vexlib](https://github.com/vexstate/vexlib)
+- **Learning**: _Kotlin_, _Rust_, _Ruby_
+
 - [_Vexstate MP_](https://github.com/vexstate)
 - [_X11dwm_](https://github.com/n11kol11c/X11dwm.git)
 - [_KumOS_](https://github.com/TodorW/ZephyrOS)
