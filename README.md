@@ -18,4 +18,4 @@
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=n11kol11c&layout=compact&theme=dark&hide_border=true&cache_seconds=60)
+![](https://github-readme-stat.vercel.app/api/top-langs/?username=n11kol11c&layout=compact&theme=dark&hide_border=true&cache_seconds=60)
