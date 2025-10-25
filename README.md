@@ -7,11 +7,11 @@
 - **Currently working on _Vextstate Framework_**: [vexlib](https://github.com/vexstate/vexlib)
 - **Learning**: _Kotlin_, _Rust_, _Ruby_
 
-- [_Vexstate MP_](https://github.com/vexstate)
-- [_X11dwm_](https://github.com/n11kol11c/X11dwm.git)
-- [_KumOS_](https://github.com/TodorW/ZephyrOS)
-- [_smb-NES6502_](https://github.com/n11kol11c/smb-NES6502)
-- [_About Page_](info.md)
+> [_Vexstate MP_](https://github.com/vexstate)
+> [_X11dwm_](https://github.com/n11kol11c/X11dwm.git)
+> [_KumOS_](https://github.com/TodorW/ZephyrOS)
+> [_smb-NES6502_](https://github.com/n11kol11c/smb-NES6502)
+> [_About Page_](info.md)
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
