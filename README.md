@@ -3,6 +3,7 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=tkemza&label=Profile%20views&color=0e75b6&style=flat" alt="tkemza" /></p>
 <p>
 
+- _Full-Stack dev_
 - **Currently working on _Vextstate Framework_**: [vexlib](https://github.com/vexstate/vexlib)
 - **Learning**: _Kotlin_, _Rust_, _Ruby_
 
