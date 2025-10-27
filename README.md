@@ -35,3 +35,5 @@
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n11kol11c&layout=compact) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n11kol11c&layout=compact&langs_count=6&theme=dracula&hide_border=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n11kol11c&layout=compact)
+
