@@ -3,11 +3,8 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=tkemza&label=Profile%20views&color=0e75b6&style=flat" alt="tkemza" /></p>
 <p>
 
-- _Full-Stack dev_
-- **Currently working on**:
-- [_Vextstate Framework_](https://github.com/vexstate/vexlib),
-- [Vexstate UI/UX](https://github.com/vexstate/vexui),
-- [Statpro](https://statpro.me)
+- _fullstack dev_
+- **Currently working on**:[_Vextstate Framework_](https://github.com/vexstate/vexlib), [Vexstate UI/UX](https://github.com/vexstate/vexui), [Statpro](https://statpro.me)
 
 - **Learning**: _Kotlin_, _Rust_, _Ruby_
 
