@@ -4,7 +4,7 @@
 <p>
 
 - _fullstack dev_
-- **Currently working on**:[_Vextstate Framework_](https://github.com/vexstate/vexlib), [Vexstate UI/UX](https://github.com/vexstate/vexui), [Statpro](https://statpro.me)
+- **Currently working on**: [_Vextstate Framework_](https://github.com/vexstate/vexlib), [Vexstate UI/UX](https://github.com/vexstate/vexui), [Statpro](https://statpro.me)
 
 - **Learning**: _Kotlin_, _Rust_, _Ruby_
 
