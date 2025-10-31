@@ -6,7 +6,7 @@
 - _fullstack dev_
 - **Currently working on**: [_Vextstate Framework_](https://github.com/vexstate/vexlib), [_Vexstate UI/UX_](https://github.com/vexstate/vexui), [_Statpro Webpage_](https://)
 
-- **Learning**: _Kotlin_, _Rust_, _Ruby_
+- **Learning**: _Rust_, _Pascal_
 
 > [_Vexstate MP_](https://github.com/vexstate)
 
@@ -28,7 +28,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Pascal](https://img.shields.io/badge/Pascal-7F52FF?style=for-the-badge&logo=pascal&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
