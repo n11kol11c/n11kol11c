@@ -6,7 +6,7 @@
 - _fullstack dev_
 - **Currently working on**: [_Vextstate Framework_](https://github.com/vexstate/vexlib), [_Vexstate UI/UX_](https://github.com/vexstate/vexui), [_Statpro Webpage_](https://)
 
-- **Learning**: _Rust_, _Pascal_
+- **Learning**: _Rust_, _Kotlin_
 
 > [_Vexstate MP_](https://github.com/vexstate)
 
