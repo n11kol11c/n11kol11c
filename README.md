@@ -37,4 +37,4 @@
 <!--![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=n11kol11c&layout=compact&theme=dark&hide_border=true&cache_seconds=60) -->
 <!--![toplangs](https://github-readme-stats.vercel.app/api/top-langs/?username=n11kol11c&layout=compact&theme=dark&hide_border=true) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n11kol11c&layout=compact)](https://github.com/n11kol11c)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n11kol11c&layout=compact)](https://github.com/n11kol11c)
