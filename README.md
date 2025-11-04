@@ -21,7 +21,7 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-00A7B8?style=for-the-badge&logo=react&logoColor=black)
+![React](https://img.shields.io/badge/React-00A7B8?style=for-the-badge&logo=react&logoColor=white)
 ![PHP](https://img.shields.io/badge/Php-00599C?style=for-the-badge&logo=php&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![Assembly](https://img.shields.io/badge/ASM-6E4B3C?style=for-the-badge&logo=amd&logoColor=white)
