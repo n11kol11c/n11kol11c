@@ -3,7 +3,7 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=tkemza&label=Profile%20views&color=0e75b6&style=flat" alt="tkemza" /></p>
 <p>
 
-- _fullstack dev_
+- _Multi-Stack Developer_
 - **Currently working on**: [_Vextstate Framework_](https://github.com/vexstate/vexlib), [_Vexstate UI/UX_](https://github.com/vexstate/vexui), [_Statpro Webpage_](https://)
 
 - **Learning**: _Rust_, _Kotlin_
