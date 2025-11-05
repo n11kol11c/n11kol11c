@@ -7,12 +7,6 @@
 
 - **Learning**: _Rust_, _Kotlin_
 
-> [_Vexstate MP_](https://github.com/vexstate)
-
-> [_X11dwm_](https://github.com/n11kol11c/X11dwm.git),
-> [_KumOS_](https://github.com/TodorW/ZephyrOS),
-> [_smb-NES6502_](https://github.com/n11kol11c/smb-NES6502)
-
 > [_About Page_](info.md)
 
 ![Rust](https://img.shields.io/badge/Rust-FF7C5E?style=for-the-badge&logo=rust&logoColor=black)
