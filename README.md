@@ -21,7 +21,7 @@
 ![React](https://img.shields.io/badge/React-00A7B8?style=for-the-badge&logo=react&logoColor=white)
 ![PHP](https://img.shields.io/badge/Php-00599C?style=for-the-badge&logo=php&logoColor=white)
 ![Assembly](https://img.shields.io/badge/ASM-6E4B3C?style=for-the-badge&logo=amd&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-165369?style=for-the-badge&logo=mysql&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-276B00?style=for-the-badge&logo=gnu-bash&logoColor=black)
