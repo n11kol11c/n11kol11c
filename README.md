@@ -9,8 +9,6 @@
 
 - **Learning**: _Rust_, _Kotlin_
 
-### Want to know more?
-
 > [_Github Stats_](info.md), 
 > [_About my projects_]()
 
