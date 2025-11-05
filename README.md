@@ -9,7 +9,9 @@
 
 - **Learning**: _Rust_, _Kotlin_
 
-> [_Github Stats_](info.md)
+### Want to know more?
+
+> [_Github Stats_](info.md), 
 > [_About my projects_]()
 
 ![Rust](https://img.shields.io/badge/Rust-FF7C5E?style=for-the-badge&logo=rust&logoColor=black)
