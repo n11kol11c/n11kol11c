@@ -1,9 +1,6 @@
 <h1 align="center">Welcome to матија's GitHub</h1>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=tkemza&label=Profile%20views&color=0e75b6&style=flat" alt="tkemza" /></p>
-<img src="https://img.shields.io/github/stars/n11kol11c?style=flat&color=yellow" alt="Stars" />
-
-<p>
 
 > [!NOTE]
 > I'm Fullstack  developer, assistant designer-developer for [StatPro](https://) and ambasador of [FiveM](https://fivem.net/) MP @vexstate
