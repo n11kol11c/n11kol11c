@@ -3,7 +3,7 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=tkemza&label=Profile%20views&color=0e75b6&style=flat" alt="tkemza" /></p>
 <p>
   
-- I'm multi-stack developer, ambassador of FiveM Server @vexstate and assistant designer and deveoper for StatPro
+- I'm multi-stack developer, assistant designer-developer for [StatPro](https://) and ambasador of [FiveM](https://fivem.net/) MultiPlayer @vexstate
 
 - **Currently working on**: [_Vextstate Framework_](https://github.com/vexstate/vexlib), [_Vexstate UI/UX_](https://github.com/vexstate/vexui), [_Rust on Cart_](https://github.com/n11kol11c/rust-on-cart), [_Statpro Webpage_](https://)
 
