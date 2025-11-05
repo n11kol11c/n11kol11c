@@ -33,6 +33,5 @@
 <!--![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=n11kol11c&layout=compact&theme=dark&hide_border=true&cache_seconds=60) -->
 <!--![toplangs](https://github-readme-stats.vercel.app/api/top-langs/?username=n11kol11c&layout=compact&theme=dark&hide_border=true) -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=n11kol11c&theme=radical&hide_border=false)
-
-![toplangs](https://github-readme-stats.vercel.app/api/top-langs/?username=n11kol11c&layout=compact&theme=radical&hide_border=true)
+ ![toplangs](https://github-readme-stats.vercel.app/api/top-langs/?username=n11kol11c&layout=compact&theme=radical&hide_border=true)
 
