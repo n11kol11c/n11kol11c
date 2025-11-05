@@ -4,7 +4,7 @@
 <p>
   
 > [!INFO]
-> - I'm Fullstack  developer, assistant designer-developer for [StatPro](https://) and ambasador of [FiveM](https://fivem.net/) MP @vexstate
+> I'm Fullstack  developer, assistant designer-developer for [StatPro](https://) and ambasador of [FiveM](https://fivem.net/) MP @vexstate
 
 - **Currently working on**: [_Vextstate Framework_](https://github.com/vexstate/vexlib), [_Vexstate UI/UX_](https://github.com/vexstate/vexui), [_Rust on Cart_](https://github.com/n11kol11c/rust-on-cart), [_Statpro Webpage_](https://)
 
