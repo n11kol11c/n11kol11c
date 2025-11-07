@@ -21,7 +21,7 @@
 ![PHP](https://img.shields.io/badge/Php-00599C?style=for-the-badge&logo=php&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-0075F8?style=for-the-badge&logo=mysql&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-0075F8?style=for-the-badge&logo=mysql&logoColor=white)
 ![Assembly](https://img.shields.io/badge/ASM-1b4080?style=for-the-badge&logo=amd&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-4a4a4a?style=for-the-badge&logo=gnu-bash&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
