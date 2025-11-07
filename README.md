@@ -3,9 +3,9 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=tkemza&label=Profile%20views&color=0e75b6&style=flat" alt="tkemza" /></p>
 
 > [!IMPORTANT]
-> I'm _fullstack  developer_, _assistant designer-developer_ for [_StatPro_](https://) and _ambasador_ of [FiveM](https://fivem.net/) _MP @vexstate_
-> - **Currently working on**: [_Vextstate Framework_](https://github.com/vexstate/vexlib), [_Rust on Cart_](https://github.com/n11kol11c/rust-on-cart), [_Statpro Webpage_](https://)
-> - **Learning**: _Rust_, _Kotlin_
+> _I'm fullstack  developer, assistant designer-developer for [StatPro](https://) and ambasador of [FiveM](https://fivem.net/) MP @vexstate_
+> - **Currently working on**: [`_Vextstate Framework_`](https://github.com/vexstate/vexlib), [_Rust on Cart_](https://github.com/n11kol11c/rust-on-cart), [_Statpro Webpage_](https://)
+> - **Learning**: `_Rust_`, `_Kotlin_`
 
 > [!NOTE]
 > [_Github Stats_](info.md), 
