@@ -5,7 +5,7 @@
 > [!IMPORTANT]
 > _I'm fullstack  developer, assistant designer-developer for [StatPro](https://) and ambasador of [FiveM](https://fivem.net/) MP @vexstate_
 > - **Currently working on**: [`Vextstate Framework`](https://github.com/vexstate/vexlib), [`Rust on Cart`](https://github.com/n11kol11c/rust-on-cart), [`Statpro Webpage`](https://)
-> - **Learning**: `_Rust_`, `_Kotlin_`
+> - **Learning**: _`Rust`_, _`Kotlin`_
 
 > [!NOTE]
 > [_Github Stats_](info.md), 
