@@ -3,7 +3,7 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=tkemza&label=Profile%20views&color=0e75b6&style=flat" alt="tkemza" /></p>
 
 > [!IMPORTANT]
-> _I'm fullstack  developer, assistant designer-developer for [StatPro](https://) and ambasador of [FiveM](https://fivem.net/) MP [@vexstate](https://github.com/vexstate)_
+> _I'm fullstack  developer ● assistant designer and web developer for [StatPro](https://) ● ambasador of [FiveM](https://fivem.net/) MP Server [@vexstate](https://github.com/vexstate)_
 > - **Currently working on**: [`Vextstate Framework`](https://github.com/vexstate/vexlib), [`Rust on Cart`](https://github.com/n11kol11c/rust-on-cart), [`Statpro Admin Panel`](https://)
 > - **Learning**: _`Rust`_, _`Kotlin`_
 
