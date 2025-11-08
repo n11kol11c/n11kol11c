@@ -8,8 +8,7 @@
 > - **Learning**: _`Rust`_, _`Kotlin`_
 
 > [!NOTE]
-> [_`Github Stats`_](info.md), 
-> [_`About my projects`_]()
+> [_`Github Stats`_](info.md)
 
 ![Rust](https://img.shields.io/badge/Rust-FF7C5E?style=for-the-badge&logo=rust&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
