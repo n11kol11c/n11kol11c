@@ -4,7 +4,7 @@
 
 > [!IMPORTANT]
 > _I'm fullstack  developer ● assistant designer and web developer for [StatPro](https://) ● ambasador of [FiveM](https://fivem.net/) MP Server [@vexstate](https://github.com/vexstate)_
-> - **Currently working on**: [`Vextstate Framework`](https://github.com/vexstate/vexlib), [`Rust on Cart`](https://github.com/n11kol11c/rust-on-cart), [`Statpro Admin Panel`](https://)
+> - **Currently working on**: [`vexlib framework`](https://github.com/vexstate/vexlib), [`Rust on Cart`](https://github.com/n11kol11c/rust-on-cart), [`Statpro Admin Panel`](https://)
 > - **Learning**: _`Rust`_, _`Kotlin`_
 
 > [!NOTE]
