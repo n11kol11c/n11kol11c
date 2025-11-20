@@ -28,7 +28,7 @@
 
 ![alt](https://github-readme-streak-stats.herokuapp.com/?user=n11kol11c&theme=radical&hide_border=false)
 ![toplangs](https://github-readme-stats.vercel.app/api/top-langs/?username=n11kol11c&layout=compact&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n11kol11c&layout=compact&theme=radical)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n11kol11c&layout=compact&theme=radical) -->
 <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=n11kol11c&layout=compact&theme=radical&hide_border=true)-->
 <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=n11kol11c&layout=compact&theme=dark&hide_border=true&cache_seconds=60) -->
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n11kol11c&layout=compact) -->
