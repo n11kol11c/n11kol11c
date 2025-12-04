@@ -4,8 +4,8 @@
 
 > [!IMPORTANT]
 > _I'm fullstack  developer ● assistant designer and web developer for [StatPro](https://) ● ambasador of [FiveM](https://fivem.net/) MP Server [@vexstate](https://github.com/vexstate)_
-> - **Currently working on**: [`vexlib framework`](https://github.com/vexstate/vexlib), [`StatPro webpage design`](https://)
-> - **Learning**: _`Rust`_, _`Kotlin`_
+> - **Currently working on**: [`vexlib`](https://github.com/vexstate/vexlib), [`StatPro webpage design`](https://)
+> - **Learning**: _`Rust`_, _`Kotlin`_, _`Php`_
 
 > [!NOTE]
 > [~`Github Stats`~](info.md)
