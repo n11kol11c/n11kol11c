@@ -7,7 +7,6 @@
 > - **Currently working on**: [`vexlib`](https://github.com/vexstate/vexlib), [`StatPro webpage design`](https://)
 > - **Learning**: _`Rust`_, _`Kotlin`_, _`Php`_
 
-> [!NOTE]
 > [~`Github Stats`~](info.md)
 
 ![Rust](https://img.shields.io/badge/Rust-FF7C5E?style=for-the-badge&logo=rust&logoColor=black)
