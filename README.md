@@ -2,7 +2,7 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=tkemza&label=Profile%20views&color=0e75b6&style=flat" alt="n11kol11c" /></p>
 
-_I'm fullstack  developer ● assistant designer and web developer for [StatPro](https://) ● ambasador of [FiveM](https://fivem.net/) MP Server [@vexstate](https://github.com/vexstate)_
+_I'm fullstack  developer ● assistant designer and web developer for [StatPro](https://) ●
 
 > [~stats~](info.md)
 
