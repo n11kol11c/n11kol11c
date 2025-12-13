@@ -15,12 +15,12 @@ _I'm fullstack  developer ● assistant designer and web developer for [StatPro]
 ![React](https://img.shields.io/badge/React-59c8ff?style=for-the-badge&logo=react&logoColor=black)
 <br>
 ![PHP](https://img.shields.io/badge/Php-4f579e?style=for-the-badge&logo=php&logoColor=white)
-<!--![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white) -->
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-9fb0cc?style=for-the-badge&logo=mysql&logoColor=black)
 ![Assembly](https://img.shields.io/badge/ASM-a38d3c?style=for-the-badge&logo=amd&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-2dfa9e?style=for-the-badge&logo=gnu-bash&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<!--![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white) -->
 
 <!--
 ![unable to load](https://github-readme-streak-stats.herokuapp.com/?user=n11kol11c&theme=dark&hide_border=false)
