@@ -12,7 +12,6 @@ _I'm fullstack  developer ● assistant designer and web developer for [StatPro]
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-59c8ff?style=for-the-badge&logo=react&logoColor=black)
 <br>
 ![PHP](https://img.shields.io/badge/Php-4f579e?style=for-the-badge&logo=php&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -21,7 +20,8 @@ _I'm fullstack  developer ● assistant designer and web developer for [StatPro]
 ![Shell](https://img.shields.io/badge/Shell-2dfa9e?style=for-the-badge&logo=gnu-bash&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 <!--![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white) -->
-
+<!-- ![React](https://img.shields.io/badge/React-59c8ff?style=for-the-badge&logo=react&logoColor=black) -->
+<!-- ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) -->
 <!--
 ![unable to load](https://github-readme-streak-stats.herokuapp.com/?user=n11kol11c&theme=dark&hide_border=false)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n11kol11c&layout=compact&theme=dark) -->
