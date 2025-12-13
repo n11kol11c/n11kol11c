@@ -2,7 +2,7 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=tkemza&label=Profile%20views&color=0e75b6&style=flat" alt="n11kol11c" /></p>
 
-● _fullstack dev_
+● _fullstack dev_ <br>
 ● _assistant designer and web developer for [StatPro](https://)_ ●
 
 > [~stats~](info.md)
