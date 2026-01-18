@@ -2,8 +2,8 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=tkemza&label=Profile%20views&color=0e75b6&style=flat" alt="n11kol11c" /></p>
 
-ꜰᴜʟʟꜱᴛᴀᴄᴋ ᴅᴇᴠ 
-ᴡᴇʙ ᴅᴇꜱɪɢɴᴇʀ @ [ꜱᴛᴀᴛᴘʀᴏ](https://)
+- ꜰᴜʟʟꜱᴛᴀᴄᴋ ᴅᴇᴠ
+- ᴡᴇʙ ᴅᴇꜱɪɢɴᴇʀ @ [ꜱᴛᴀᴛᴘʀᴏ](https://)
 
 > [~stats~](info.md)
 
