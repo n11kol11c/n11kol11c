@@ -6,7 +6,7 @@
 - scripter
 - 𝘸𝘦𝘣 𝘥𝘦𝘴𝘪𝘨𝘯𝘦𝘳 𝘢𝘵 [@𝘴𝘵𝘢𝘵𝘱𝘳𝘰](https://)
 
-> [~dump~](info.md)
+> [~s~](info.md)
 
 ![Rust](https://img.shields.io/badge/Rust-FF7C5E?style=for-the-badge&logo=rust&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
