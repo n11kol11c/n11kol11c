@@ -6,7 +6,7 @@
 - web designer at [@𝘴𝘵𝘢𝘵𝘱𝘳𝘰](https://)
 - currently working on [@sophianexus](https://github.com/n11kol11c/sophianexus) landing page
 
-> [~status~](info.md)
+> [~commits and uploads~](info.md)
 
 ![Rust](https://img.shields.io/badge/Rust-FF7C5E?style=for-the-badge&logo=rust&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
