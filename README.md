@@ -4,7 +4,7 @@
 
 - scripter, fullstack dev 
 - web designer at [@𝘴𝘵𝘢𝘵𝘱𝘳𝘰](https://)
-- currently working on [@sophianexus](https://github.com/n11kol11c/sophianexus) landing page
+- currently working on [@sophianexus](https://github.com/sophianexus/sophianexusweb) landing page
 
 > [~commits and uploads~](info.md)
 
