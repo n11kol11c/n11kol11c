@@ -38,9 +38,3 @@ I am a software engineer based in Montenegro, focused on building high-end digit
 **Design & Environment**
 
 [![My Skills](https://skillicons.dev/icons?i=figma,ps,linux,fedora&theme=light)](https://skillicons.dev)
-
----
-
-<p align="right">
-  <a href="https://sophianexus.me">sophianexus.me</a> / <a href="#">discord</a>
-</p>
