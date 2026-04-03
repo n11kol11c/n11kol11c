@@ -37,4 +37,4 @@ I am a software engineer based in Montenegro, focused on building high-end digit
 
 **Design & Environment**
 
-[![My Skills](https://skillicons.dev/icons?i=figma,ps,linux&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,ps,linux,clion,vscode&theme=light)](https://skillicons.dev)
