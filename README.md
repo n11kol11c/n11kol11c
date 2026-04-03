@@ -29,7 +29,7 @@ I am a software engineer based in Montenegro, focused on building high-end digit
 
 **Web & Engineering**
 
-[![My Skills](https://skillicons.dev/icons?i=react,vite,nodejs,js&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,vite,nodejs,js,tailwindcss&theme=dark)](https://skillicons.dev)
 
 **Systems & Scripting**
 
