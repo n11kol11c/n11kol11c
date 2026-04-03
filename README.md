@@ -29,15 +29,15 @@ I am a software engineer based in Montenegro, focused on building high-end digit
 
 **Web & Engineering**
 
-[![My Skills](https://skillicons.dev/icons?i=react,vite,nodejs,js,tailwindcss&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,vite,nodejs,js,tailwindcss&theme=light)](https://skillicons.dev)
 
 **Systems & Scripting**
 
-[![My Skills](https://skillicons.dev/icons?i=cs,py,lua,mysql,rust&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,py,lua,mysql,rust&theme=light)](https://skillicons.dev)
 
 **Design & Environment**
 
-[![My Skills](https://skillicons.dev/icons?i=figma,ps,linux,fedora&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,ps,linux,fedora&theme=light)](https://skillicons.dev)
 
 ---
 
