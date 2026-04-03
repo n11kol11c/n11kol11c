@@ -1,7 +1,7 @@
 <h1 align="center">Matija</h1>
 
 <p align="center">
-  <b>Solutions Architect · UI/UX Designer</b><br>
+  <b>Fullstack Developer · UI/UX Designer</b><br>
   <a href="https://sophianexus.me">Website</a> · <a href="#">LinkedIn</a> · <a href="#">Instagram</a> · <a href="mailto:info@sophianexus.me">Email</a>
 </p>
 
