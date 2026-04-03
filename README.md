@@ -22,12 +22,15 @@ I am a software engineer based in Montenegro, focused on building high-end digit
 ### Core Stack
 
 **Web & Engineering**
+
 [![My Skills](https://skillicons.dev/icons?i=react,vite,nodejs,php,js,ts&theme=dark)](https://skillicons.dev)
 
 **Systems & Scripting**
+
 [![My Skills](https://skillicons.dev/icons?i=cs,py,lua,mysql,mariadb&theme=dark)](https://skillicons.dev)
 
 **Design & Environment**
+
 [![My Skills](https://skillicons.dev/icons?i=figma,ps,linux,fedora&theme=dark)](https://skillicons.dev)
 
 ---
