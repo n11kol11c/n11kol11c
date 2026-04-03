@@ -1,9 +1,15 @@
-# Matija
+<h1 align="center">Matija</h1>
 
-<h4 align="center">Software Engineer · UI/UX Designer</h4>
-[Website](https://sophianexus.me) · [LinkedIn](#) · [Instagram](#) · [info@sophianexus.me](mailto:info@sophianexus.me)
- 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=tkemza&label=Profile%20views&color=0e75b6&style=flat" alt="n11kol11c" /></p>
+<p align="center">
+  <b>Solutions Architect · UI/UX Designer</b><br>
+  <a href="https://sophianexus.me">Website</a> · <a href="#">LinkedIn</a> · <a href="#">Instagram</a> · <a href="mailto:info@sophianexus.me">Email</a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tkemza&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
+</p>
+
+---
 
 I am a software engineer based in Montenegro, focused on building high-end digital products where design and deep technical execution meet. I work across the full stack—from engineering custom scripts to crafting modern, high-performance web experiences.
 
@@ -22,15 +28,12 @@ I am a software engineer based in Montenegro, focused on building high-end digit
 ### Core Stack
 
 **Web & Engineering**
-
 [![My Skills](https://skillicons.dev/icons?i=react,vite,nodejs,js&theme=dark)](https://skillicons.dev)
 
 **Systems & Scripting**
-
 [![My Skills](https://skillicons.dev/icons?i=cs,py,lua,mysql,rust&theme=dark)](https://skillicons.dev)
 
 **Design & Environment**
-
 [![My Skills](https://skillicons.dev/icons?i=figma,ps,linux,fedora&theme=dark)](https://skillicons.dev)
 
 ---
