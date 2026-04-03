@@ -15,7 +15,7 @@ I am a software engineer based in Montenegro, focused on building high-end digit
 
 ---
 
-### 🛠 Currently Building
+### Currently Building
 
 **[Sophia Nexus](https://sophianexus.me)** — A luxury wellness & healing platform. Blending somatic therapy with a premium, performance-first digital identity.  
 `React` `Node.js` `Glassmorphism` `Vite`
