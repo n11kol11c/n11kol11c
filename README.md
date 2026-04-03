@@ -21,7 +21,7 @@ I am a software engineer based in Montenegro, focused on building high-end digit
 > `React` `Node.js` `Glassmorphism` `Vite`
 
 **[cfxjs](#)** — An open-source utility library for modern game modding. Researching and implementing high-performance player states, markers, and blips.  
-> `JavaScript` `TypeScript` `Lua` `Game Engine Research`
+> `JavaScript` `C#` `Lua` `Game Engine Research`
 
 ---
 
