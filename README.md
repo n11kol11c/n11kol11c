@@ -33,7 +33,7 @@ I am a software engineer based in Montenegro, focused on building high-end digit
 
 **Systems & Scripting**
 
-[![My Skills](https://skillicons.dev/icons?i=c,cs,py,lua,rust,mysql&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cs,rust,py,lua,mysql&theme=light)](https://skillicons.dev)
 
 **Design & Environment**
 
