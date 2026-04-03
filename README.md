@@ -27,13 +27,9 @@ I am a software engineer based in Montenegro, focused on building high-end digit
 
 ### Core Stack
 
-**Web & Engineering**
+**Web Engineering, Systems & Scripting**
 
-[![My Skills](https://skillicons.dev/icons?i=react,vite,npm,nodejs,js,tailwindcss&theme=light)](https://skillicons.dev)
-
-**Systems & Scripting**
-
-[![My Skills](https://skillicons.dev/icons?i=c,cs,rust,py,lua,mysql&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,vite,npm,nodejs,js,tailwindcss,c,cs,rust,py,lua,mysql&theme=light)](https://skillicons.dev)
 
 **Design & Environment**
 
