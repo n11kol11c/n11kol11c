@@ -1,6 +1,6 @@
 # Matija
 
-**Software Engineer · UI/UX Designer**
+<h4 align="center">**Software Engineer · UI/UX Designer**</h4>
 [Website](https://sophianexus.me) · [LinkedIn](#) · [Instagram](#) · [info@sophianexus.me](mailto:info@sophianexus.me)
  
 <p align="left"><img src="https://komarev.com/ghpvc/?username=tkemza&label=Profile%20views&color=0e75b6&style=flat" alt="n11kol11c" /></p>
