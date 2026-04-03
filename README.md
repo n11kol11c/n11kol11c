@@ -27,7 +27,7 @@ I am a software engineer based in Montenegro, focused on building high-end digit
 
 **Systems & Scripting**
 
-[![My Skills](https://skillicons.dev/icons?i=cs,py,lua,mysql,mariadb,rs&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,py,lua,mysql,mariadb,rusts&theme=dark)](https://skillicons.dev)
 
 **Design & Environment**
 
