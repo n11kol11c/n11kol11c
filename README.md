@@ -30,8 +30,8 @@ I am a software engineer based in Montenegro, focused on building high-end digit
 
 **Web Engineering, Systems & Scripting**
 
-[![My Skills](https://skillicons.dev/icons?i=c,rust,js,ts,py,lua,mysql,react,vite,npm,nodejs,tailwindcss&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,rust,js,ts,py,lua,mysql,react,nodejs,tailwindcss&theme=light)](https://skillicons.dev)
 
 **Design & Environment**
 
-[![My Skills](https://skillicons.dev/icons?i=figma,ps,git,linux,clion,vscode&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,ps,git,vite,npm,linux,clion,vscode&theme=light)](https://skillicons.dev)
