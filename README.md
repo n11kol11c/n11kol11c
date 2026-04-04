@@ -39,7 +39,7 @@ I am a software engineer & fullstack developer specialized in building **high-pe
 
 **Systems & Core Engineering**
 
-[![My Skills](https://skillicons.dev/icons?i=c,rust,js,ts,py,lua,mysql,nodejs&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,rust,js,ts,py,lua,nodejs,mysql&theme=light)](https://skillicons.dev)
 
 **Frontend Architecture & Design**
 
