@@ -1,4 +1,4 @@
-<h2 align="center">Matija — Software Engineer · UI/UX Designer · Fullstack Developer</h2>
+<h2 align="center">Matija — Software Engineer · UI/UX Designer</h2>
 
 <p align="center">
   <i>"Crafting seamless web identities and robust custom scripts for digital excellence."</i>
