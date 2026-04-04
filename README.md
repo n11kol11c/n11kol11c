@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Fullstack Developer · UI/UX Designer</b><br>
-  <a href="https://">Website</a> · <a href="#">LinkedIn</a> · <a href="https://instagram.com/n11kol11c">Instagram</a> · <a href="mailto:">Email</a>
+  <a href="#">LinkedIn</a> · <a href="https://instagram.com/n11kol11c">Instagram</a> · <a href="mailto:">Email</a>
 </p>
 
 <p align="center">
@@ -13,6 +13,7 @@
 ---
 
 I am a software engineer, focused on building high-end digital products where design and deep technical execution meet. I work across the full stack—from engineering custom scripts to crafting modern, high-performance web experiences.
+[Get in touch](https://)
 
 ---
 
