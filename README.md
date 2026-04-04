@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/EXPLORE_PORTFOLIO-0088cc?style=for-the-badge&logo=react&logoColor=white" />
   </a>
   <a href="mailto:matija.dev@proton.me">
-    <img src="https://img.shields.io/badge/START_A_PROJECT-white?style=for-the-badge&logo=maildotru&logoColor=0088cc" />
+    <img src="https://img.shields.io/badge/START_A_PROJECT-white?style=for-the-badge&logo=protonmail&logoColor=0088cc" />
   </a>
 </p>
 
