@@ -16,7 +16,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tkemza&label=RECOGNITION&color=0088cc&style=flat-square&logo=github" alt="views" />
   <img src="https://img.shields.io/badge/Environment-Fedora_Linux-3c475d?style=flat-square&logo=fedora&logoColor=white" />
-  <img src="https://img.shields.io/badge/Coding_in-Javascript-f7df1e?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Coding_in-Javascript-f7df1e?style=flat-square&logo=javascript&logoColor=yellow" />
 </p>
 
 ---
