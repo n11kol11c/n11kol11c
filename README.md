@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to м's github profile</h1>
 
 <p align="center">
-  <h2><b>Fullstack Developer · UI/UX Designer</b></h2><br>
+  <h2><b>Fullstack Developer · UI/UX Designer</b></h2>
   <a href="https://">
     <img src="https://img.shields.io/badge/VIEW_PORTFOLIO_%26_PROJECTS-0088cc?style=for-the-badge&logo=react&logoColor=white" />
   </a>
