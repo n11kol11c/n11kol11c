@@ -21,12 +21,12 @@
 
 ---
 
-### 01 / About Me
+### About Me
 I am a software engineer & fullstack developer specialized in building **high-performance digital products**. My workflow bridges the gap between complex system engineering and premium UI/UX design. Bridging the gap between **low-level system engineering** and **high-end frontend art**. I specialize in developing complex custom **scripts**, **rock-solid backend foundations**, and breathtaking web experiences—engineered for maximum impact and **surgical precision**.
 
 ---
 
-### 02 / Active Research & Development
+### Active Research & Development
 
 - **[Sophia Nexus](https://github.com/sophianexus/sophianexusweb)** - *The Future of Wellness:* A luxury healing platform. Implementing complex somatic therapy flows with a focus on **Glassmorphism**, **React**, and **Vite**-powered performance.
   - `Vite` `React` `css` `npm`
@@ -35,7 +35,7 @@ I am a software engineer & fullstack developer specialized in building **high-pe
 
 ---
 
-### 03 / The Stack
+### The Stack
 
 **Systems & Core Engineering**
 
@@ -51,7 +51,7 @@ I am a software engineer & fullstack developer specialized in building **high-pe
 
 ---
 
-### 04 / Let's Connect
+### Let's Connect
 Looking for high-stakes execution on your next project? 
 - **Direct:** [portfolio](https://)
 - **ProtonMail:** matija.dev@proton.me
