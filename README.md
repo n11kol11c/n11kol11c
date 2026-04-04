@@ -53,5 +53,6 @@ I am a software engineer & fullstack developer specialized in building **high-pe
 
 ### 04 / Let's Connect
 Looking for high-stakes execution on your next project? 
-- **Direct:** [n11kol11c.dev](https://yourwebsite.com)
+- **Direct:** [portfolio](https://)
+- **ProtonMail:** [matija.dev](matija.dev@proton.me)
 - **Instagram:** [@n11kol11c](https://instagram.com/n11kol11c)
