@@ -15,8 +15,6 @@
   <img src="https://img.shields.io/badge/Coding_in-Python-61dafb?style=flat-square&logo=python&logoColor=white" />
 </p>
 
----
-
 I am a software engineer, focused on building high-end digital products where design and deep technical execution meet. I work across the full stack—from engineering custom scripts to crafting modern, high-performance web experiences.
 [Get in touch](https://)
 
