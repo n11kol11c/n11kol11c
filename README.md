@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Fullstack Developer · UI/UX Designer</b><br>
-  <a href="https://">Website</a> · <a href="#">LinkedIn</a> · <a href="#">Instagram</a> · <a href="mailto:">Email</a>
+  <a href="https://">Website</a> · <a href="#">LinkedIn</a> · <a href="https://instagram.com/n11kol11c">Instagram</a> · <a href="mailto:">Email</a>
 </p>
 
 <p align="center">
