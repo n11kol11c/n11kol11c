@@ -1,7 +1,7 @@
 <h1 align="center">Matija — Fullstack Developer · UI/UX Designer</h1>
 
 <p align="center">
-  <i>"Building high-performance scripts and premium web experiences through clean design."</i>
+  <i>"Crafting seamless web identities and robust custom scripts for digital excellence."</i>
 </p>
 
 <p align="center">
