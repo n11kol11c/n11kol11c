@@ -56,5 +56,5 @@ Most websites are built to look good. Mine are engineered to perform under press
 Looking for a technical partner for your next mission-critical project?
 
 - 📩 Contact Me via Proton Mail: _`matija.dev@proton.me`_
-- **Instagram:** [@n11kol11c](https://instagram.com/n11kol11c)
-- **Website:** [Let’s discuss the architecture.](https://)
+- 📩 **Instagram:** [@n11kol11c](https://instagram.com/n11kol11c)
+- 📩 **Website:** [Let’s discuss the architecture.](https://)
