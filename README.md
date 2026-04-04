@@ -12,8 +12,6 @@
   </a>
 </p>
 
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tkemza&label=PROFILE%20VIEWS&color=0088cc&style=for-the-badge&logo=github" alt="views" />
   <img src="https://img.shields.io/badge/Coding_in-Python-61dafb?style=flat-square&logo=python&logoColor=white" />
