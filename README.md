@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=n11kol11c&label=RECOGNITION&color=0088cc&style=flat-square&logo=github" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=tkemza&label=RECOGNITION&color=0088cc&style=for-the-badge&logo=github" alt="views" />
   <img src="https://img.shields.io/badge/Environment-Fedora_Linux-3c475d?style=flat-square&logo=fedora&logoColor=white" />
 </p>
 
@@ -36,12 +36,15 @@ I am a software engineer specialized in building **high-performance digital prod
 ### 03 / The Stack
 
 **Systems & Core Engineering**
+
 [![My Skills](https://skillicons.dev/icons?i=c,rust,js,ts,py,lua,mysql,nodejs&theme=light)](https://skillicons.dev)
 
 **Frontend Architecture & Design**
+
 [![My Skills](https://skillicons.dev/icons?i=react,vite,tailwind,figma,ps&theme=light)](https://skillicons.dev)
 
 **Workflow & Environment**
+
 [![My Skills](https://skillicons.dev/icons?i=linux,git,npm,clion,vscode&theme=light)](https://skillicons.dev)
 
 ---
