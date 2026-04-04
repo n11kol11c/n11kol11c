@@ -35,7 +35,7 @@ I am a software engineer & fullstack developer specialized in building **high-pe
 
 ---
 
-### The Stack
+### 🛠️ The Stack
 
 **Systems & Core Engineering**
 
