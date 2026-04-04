@@ -22,7 +22,7 @@
 ---
 
 ### 01 / About Me
-I am a software engineer specialized in building **high-performance digital products**. My workflow bridges the gap between complex system engineering and premium UI/UX design. From custom game-engine libraries to glassmorphic web architectures, I focus on code that is as beautiful as it is efficient.
+I am a software engineer & fullstack developer specialized in building **high-performance digital products**. My workflow bridges the gap between complex system engineering and premium UI/UX design. From custom game-engine libraries to glassmorphic web architectures, I focus on code that is as beautiful as it is efficient.
 
 ---
 
