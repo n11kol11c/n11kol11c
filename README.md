@@ -51,7 +51,7 @@ I am a software engineer & fullstack developer specialized in building **high-pe
 
 ---
 
-### Let's Connect
+### 🚀 Let's Connect
 Most websites are built to look good. Mine are engineered to perform under pressure. From glassmorphic aesthetics to bulletproof Node.js backends, I build digital products where failure isn't an option.
 Looking for a technical partner for your next mission-critical project?
 
