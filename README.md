@@ -55,6 +55,6 @@ I am a software engineer & fullstack developer specialized in building **high-pe
 Most websites are built to look good. Mine are engineered to perform under pressure. From glassmorphic aesthetics to bulletproof Node.js backends, I build digital products where failure isn't an option.
 Looking for a technical partner for your next mission-critical project?
 
-- 📩 Contact Me via Proton Mail: **matija.dev@proton.me
+- 📩 Contact Me via Proton Mail: `_matija.dev@proton.me_`
 - **Instagram:** [@n11kol11c](https://instagram.com/n11kol11c)
 - **Website:** [Let’s discuss the architecture.](https://)
