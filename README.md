@@ -26,7 +26,7 @@ I am a software engineer & fullstack developer specialized in building **high-pe
 
 ---
 
-### Active Research & Development
+### ⚡ Active Research & Development
 
 - **[Sophia Nexus](https://github.com/sophianexus/sophianexusweb)** - *The Future of Wellness:* A luxury healing platform. Implementing complex somatic therapy flows with a focus on **Glassmorphism**, **React**, and **Vite**-powered performance.
   - `Vite` `React` `css` `npm`
