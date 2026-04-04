@@ -28,6 +28,7 @@ I am a software engineer specialized in building **high-performance digital prod
 ### 02 / Active Research & Development
 
 - **[Sophia Nexus](https://github.com/sophianexus/sophianexusweb)** - *The Future of Wellness:* A luxury healing platform. Implementing complex somatic therapy flows with a focus on **Glassmorphism**, **React**, and **Vite**-powered performance.
+  - `Vite` `React` `css` `npm`
 - **[cfxrejs](https://github.com/n11kol11c/cfxrejs)** - *Game Engine Utility:* A specialized library for GTA V modding (FiveM/RAGE:MP). Researching low-latency player states and high-performance marker systems.
   - `TypeScript` `C#` `Rust` `Game Engine Logic`
 
