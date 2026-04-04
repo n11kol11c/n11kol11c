@@ -12,7 +12,7 @@
 
 ---
 
-I am a software engineer based in Montenegro, focused on building high-end digital products where design and deep technical execution meet. I work across the full stack—from engineering custom scripts to crafting modern, high-performance web experiences.
+I am a software engineer, focused on building high-end digital products where design and deep technical execution meet. I work across the full stack—from engineering custom scripts to crafting modern, high-performance web experiences.
 
 ---
 
