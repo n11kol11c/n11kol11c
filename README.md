@@ -1,41 +1,56 @@
-<h1 align="center">Welcome to м's github profile</h1>
+<h1 align="center">Matija — Software Architect & UI Designer</h1>
 
 <p align="center">
-  <h2><b>Fullstack Developer · UI/UX Designer</b></h2>
-  <a href="https://">
-    <img src="https://img.shields.io/badge/VIEW_PORTFOLIO_%26_PROJECTS-0088cc?style=for-the-badge&logo=react&logoColor=white" />
+  <i>"Engineering high-end digital identities where performance meets modern aesthetics."</i>
+</p>
+
+<p align="center">
+  <a href="TVOJ_LINK_OVDE">
+    <img src="https://img.shields.io/badge/EXPLORE_PORTFOLIO-0088cc?style=for-the-badge&logo=react&logoColor=white" />
   </a>
-  <a href="mailto:">
+  <a href="mailto:TVOJ_EMAIL_OVDE">
     <img src="https://img.shields.io/badge/START_A_PROJECT-white?style=for-the-badge&logo=maildotru&logoColor=0088cc" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tkemza&label=PROFILE%20VIEWS&color=0088cc&style=for-the-badge&logo=github" alt="views" />
-  <img src="https://img.shields.io/badge/Coding_in-Python-61dafb?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=n11kol11c&label=RECOGNITION&color=0088cc&style=flat-square&logo=github" alt="views" />
+  <img src="https://img.shields.io/badge/Environment-Fedora_Linux-3c475d?style=flat-square&logo=fedora&logoColor=white" />
 </p>
 
-I am a software engineer, focused on building high-end digital products where design and deep technical execution meet. I work across the full stack—from engineering custom scripts to crafting modern, high-performance web experiences.
-[Get in touch](https://)
+---
+
+### 01 / About Me
+I am a software engineer specialized in building **high-performance digital products**. My workflow bridges the gap between complex system engineering and premium UI/UX design. From custom game-engine libraries to glassmorphic web architectures, I focus on code that is as beautiful as it is efficient.
 
 ---
 
-### Currently Building
+### 02 / Active Research & Development
 
-- **[Sophia Nexus](https://github.com/sophianexus/sophianexusweb)** — A luxury wellness & healing platform. Blending somatic therapy with a premium, performance-first digital identity.  
-> `React` `Node.js` `Glassmorphism` `Vite`
-
-- **[cfxrejs](#)** — An open-source utility library for modern game modding. Researching and implementing high-performance player states, markers, and blips.  
-> `JavaScript` `C#` `Lua` `Game Engine Research`
+- **[Sophia Nexus](https://github.com/sophianexus/sophianexusweb)** - *The Future of Wellness:* A luxury healing platform. Implementing complex somatic therapy flows with a focus on **Glassmorphism**, **React**, and **Vite**-powered performance.
+- **[cfxrejs](https://github.com/n11kol11c/cfxrejs)** - *Game Engine Utility:* A specialized library for GTA V modding (FiveM/RAGE:MP). Researching low-latency player states and high-performance marker systems.
+  - `TypeScript` `C#` `Rust` `Game Engine Logic`
 
 ---
 
-### Core Stack
+### 03 / The Stack
 
-**Web Engineering, Systems & Scripting**
+**Systems & Core Engineering**
+[![My Skills](https://skillicons.dev/icons?i=c,rust,js,ts,py,lua,mysql,nodejs&theme=light)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=c,rust,js,ts,py,lua,mysql,react,nodejs,tailwindcss&theme=light)](https://skillicons.dev)
+**Frontend Architecture & Design**
+[![My Skills](https://skillicons.dev/icons?i=react,vite,tailwind,figma,ps&theme=light)](https://skillicons.dev)
 
-**Design & Environment**
+**Workflow & Environment**
+[![My Skills](https://skillicons.dev/icons?i=linux,git,npm,clion,vscode&theme=light)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=figma,ps,git,vite,npm,linux,clion,vscode&theme=light)](https://skillicons.dev)
+---
+
+### 04 / Let's Connect
+Looking for high-stakes execution on your next project? 
+- **Direct:** [n11kol11c.dev](https://yourwebsite.com)
+- **Instagram:** [@n11kol11c](https://instagram.com/n11kol11c)
+- **GitHub Stats:**
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=n11kol11c&show_icons=true&theme=transparent&hide_border=true&title_color=0088cc&text_color=555" width="380" />
+</p>
