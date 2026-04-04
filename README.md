@@ -22,7 +22,7 @@
 ---
 
 ### 01 / About Me
-I am a software engineer & fullstack developer specialized in building **high-performance digital products**. My workflow bridges the gap between complex system engineering and premium UI/UX design. From custom game-engine libraries to glassmorphic web architectures, I focus on code that is as beautiful as it is efficient.
+I am a software engineer & fullstack developer specialized in building **high-performance digital products**. My workflow bridges the gap between complex system engineering and premium UI/UX design. Bridging the gap between low-level system engineering and high-end frontend art. I specialize in developing complex custom scripts, rock-solid backend foundations, and breathtaking web experiences—engineered for maximum impact and surgical precision.
 
 ---
 
