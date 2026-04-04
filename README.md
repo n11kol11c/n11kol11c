@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fkomarev.com%2Fghpvc%2F%3Fusername%3Dtkemza%26style%3Dflat-square&label=RECOGNITION&color=0088cc&logo=github&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=tkemza&label=SYSTEM_RECOGNITION&color=0088cc&style=flat-square&logo=github" alt="views" />
   <img src="https://komarev.com/ghpvc/?username=tkemza&label=RECOGNITION&color=0088cc&style=flat-square&logo=github" alt="views" />
   <img src="https://img.shields.io/badge/Environment-Fedora_Linux-3c475d?style=flat-square&logo=fedora&logoColor=blue" />
   <img src="https://img.shields.io/badge/Coding_in-Javascript-f7df1e?style=flat-square&logo=javascript&logoColor=yellow" />
