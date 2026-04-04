@@ -1,9 +1,18 @@
 <h1 align="center">Welcome to м's github profile</h1>
 
+---
+
 <p align="center">
   <b>Fullstack Developer · UI/UX Designer</b><br>
-  <a href="#">LinkedIn</a> · <a href="https://instagram.com/n11kol11c">Instagram</a> · <a href="mailto:">Email</a>
+  <a href="https://">
+    <img src="https://img.shields.io/badge/VIEW_PORTFOLIO_%26_PROJECTS-0088cc?style=for-the-badge&logo=react&logoColor=white" />
+  </a>
+  <a href="mailto:">
+    <img src="https://img.shields.io/badge/START_A_PROJECT-white?style=for-the-badge&logo=maildotru&logoColor=0088cc" />
+  </a>
 </p>
+
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tkemza&label=PROFILE%20VIEWS&color=0088cc&style=for-the-badge&logo=github" alt="views" />
