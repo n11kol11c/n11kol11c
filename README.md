@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tkemza&label=RECOGNITION&color=0088cc&style=for-the-badge&logo=github" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=tkemza&label=RECOGNITION&color=0088cc&style=flat-square&logo=github" alt="views" />
   <img src="https://img.shields.io/badge/Environment-Fedora_Linux-3c475d?style=flat-square&logo=fedora&logoColor=white" />
 </p>
 
