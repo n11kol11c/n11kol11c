@@ -53,7 +53,3 @@ I am a software engineer specialized in building **high-performance digital prod
 Looking for high-stakes execution on your next project? 
 - **Direct:** [n11kol11c.dev](https://yourwebsite.com)
 - **Instagram:** [@n11kol11c](https://instagram.com/n11kol11c)
-- **GitHub Stats:**
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=n11kol11c&show_icons=true&theme=transparent&hide_border=true&title_color=0088cc&text_color=555" width="380" />
-</p>
