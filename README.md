@@ -45,7 +45,7 @@ I am a software engineer & fullstack developer specialized in building **high-pe
 
 **Workflow & Environment**
 
-[![My Skills](https://skillicons.dev/icons?i=apple,linux,git,npm,clion,vscode,xcode&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,git,npm,clion,vscode,xcode&theme=light)](https://skillicons.dev)
 
 ---
 
