@@ -41,7 +41,7 @@ I am a software engineer & fullstack developer specialized in building **high-pe
 
 **Frontend Architecture & Design**
 
-[![My Skills](https://skillicons.dev/icons?i=swift,react,vite,tailwind,figma,ps,il&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=swift,react,vite,tailwind,figma,ps,illustrator&theme=light)](https://skillicons.dev)
 
 **Workflow & Environment**
 
