@@ -31,6 +31,8 @@ I am a software engineer & fullstack developer specialized in building **high-pe
 - **[cfxrejs](https://github.com/n11kol11c/cfxrejs)** - *Game Engine Utility:* A specialized library for GTA V modding (FiveM/RAGE:MP). Researching low-latency player states and high-performance marker systems.
   - `TypeScript` `C#` `Rust` `Game Engine Logic`
 
+- **[rust-on-cart](https://github.com/n11kol11c/rust-on-cart)** - *Rust on Cart is a lightweight, structured, and reusable Rust framework designed to make writing Rust code easier, safer, and more organized—without touching web development, for now...*
+  - `Rust` `Cargo` `Shell`
 ---
 
 ### 🛠️ The Stack
