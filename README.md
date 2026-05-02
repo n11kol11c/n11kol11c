@@ -33,6 +33,9 @@ I am a software engineer & fullstack developer specialized in building **high-pe
 
 - **[rust-on-cart](https://github.com/n11kol11c/rust-on-cart)** - *Lightweight, structured, and reusable Rust framework designed to make writing Rust code easier, safer, and more organized—without touching web development, for now...*
   - `Rust` `Cargo` `Shell`
+ 
+- **[WindowsDynamicGnome](https://github.com/n11kol11c/WindowsDynamicGnome)** - *WDG (WindowsDynamicGnome) — A high-performance, native C++ utility designed to bring the fluid GNOME desktop experience and workflow to Windows. Optimized for low resource usage and deep system integration.*
+  - `C++` `Win32` `PS`
 ---
 
 ### 🛠️ The Stack
