@@ -35,7 +35,7 @@ I am a software engineer & fullstack developer specialized in building **high-pe
   - `Rust` `Cargo` `Shell`
  
 - **[WindowsDynamicGnome](https://github.com/n11kol11c/WindowsDynamicGnome)** - *WDG (WindowsDynamicGnome) — A high-performance, native C++ utility designed to bring the fluid GNOME desktop experience and workflow to Windows. Optimized for low resource usage and deep system integration.*
-  - `C++` `Win32` `PS`
+  - `C++` `Win32` `PS1`
 ---
 
 ### 🛠️ The Stack
