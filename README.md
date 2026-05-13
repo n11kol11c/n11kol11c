@@ -40,12 +40,10 @@ I'm a fullstack developer and UI/UX designer who builds **websites**, **web appl
 <hr>
 
 ### 🚀 Let's Connect
-Most websites are built to look good. Mine are engineered to perform under pressure. From glassmorphic aesthetics to bulletproof Node.js backends, I build digital products where failure isn't an option.
-
 **Looking for a technical partner for your next mission-critical project?**
 - 📩 Contact Me via Proton Mail: _`matija.dev@proton.me`_
 - **Instagram:** [@n11kol11c](https://instagram.com/n11kol11c)
-- **Website:** [Let’s discuss the architecture.](https://)
+- **Portfolio:** [Let’s discuss the architecture.](https://)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8&height=100&section=footer" />
