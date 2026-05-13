@@ -15,24 +15,26 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=n11kol11c&color=0088cc&style=flat-square&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=tkemza&label=Views&color=0088cc&style=flat-square&logo=github" alt="views" />
   <img src="https://img.shields.io/badge/Fedora-3c475d?style=flat-square&logo=fedora&logoColor=blue" />
-  <img src="https://img.shields.io/badge/Learning-Swift-ff7b3a?style=flat-square&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/Editor-CLion_%C2%B7_VSCode_%C2%B7_Xcode-7F52FF?style=flat-square&logo=jetbrains&logoColor=white" />
+  <img src="https://img.shields.io/badge/Learning-Swift-ff7b3a?style=flat-square&logo=swift&logoColor=red" />
+  <img src="https://img.shields.io/badge/Editor-CLion_%C2%B7_VSCode_%C2%B7_Xcode-7F52FF?style=flat-square&logo=jetbrains&logoColor=purple" />
 </p>
 
 <br/>
 
 ---
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" align="left" width="40" />
+<!-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" align="left" width="40" /> -->
 
-### About
+
+### <img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="32" /> About
 
 I'm a fullstack developer and UI/UX designer who builds **websites**, **web applications**, **backend systems**, **scripts**, and **software tools**. I care about clean interfaces, solid architecture, and code that holds up under real use. Whether it's a polished frontend, a reliable API, or a low-level utility — I aim for quality over hype.
-
+ 
 <br/>
 
+<!--
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" align="left" width="40" />
 
 ### What I Do
@@ -101,8 +103,8 @@ I'm a fullstack developer and UI/UX designer who builds **websites**, **web appl
 <br/>
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" align="left" width="40" />
-
-### Tech Stack
+-->
+### Tech Stack:
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -110,7 +112,7 @@ I'm a fullstack developer and UI/UX designer who builds **websites**, **web appl
   </a>
 </p>
 
-<p align="center">
+<!-- <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
@@ -123,11 +125,11 @@ I'm a fullstack developer and UI/UX designer who builds **websites**, **web appl
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-</p>
+</p> -->
 
 <br/>
 
-<details>
+<!-- <details>
   <summary><b>📘 Currently Learning</b></summary>
   <br/>
   <p align="center">
@@ -135,14 +137,14 @@ I'm a fullstack developer and UI/UX designer who builds **websites**, **web appl
     <img src="https://img.shields.io/badge/Metal-000000?style=flat-square&logo=apple&logoColor=white" />
     <img src="https://img.shields.io/badge/Rust_WASM-000000?style=flat-square&logo=rust&logoColor=white" />
   </p>
-</details>
+</details> -->
 
 <br/>
 <hr/>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" align="left" width="40" />
+<!-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" align="left" width="40" /> -->
 
-### GitHub Activity
+<!-- ### GitHub Activity
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=n11kol11c&show_icons=true&theme=transparent&hide_border=true&icon_color=0088cc&text_color=9e9e9e&title_color=0088cc&include_all_commits=true" />
@@ -155,7 +157,7 @@ I'm a fullstack developer and UI/UX designer who builds **websites**, **web appl
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=n11kol11c&bg_color=00000000&color=0088cc&line=0088cc&point=0088cc&area=true&hide_border=true" width="95%" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=n11kol11c&theme=flat&no-frame=true&column=7&margin-w=10" width="95%" />
@@ -167,11 +169,11 @@ I'm a fullstack developer and UI/UX designer who builds **websites**, **web appl
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="80%" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="32" />
   <img src="https://github.githubassets.com/images/mona-whisper.gif" width="32" />
   <img src="https://github.githubassets.com/images/mona-loading.gif" width="32" />
-</p>
+</p> -->
 
 <br/>
 
