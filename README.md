@@ -15,6 +15,11 @@
 </p>
 
 <p align="center">
+  <a href=""><img src="https://img.shields.io/badge/Create+Your+Website-0088cc?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href=""><img src="https://img.shields.io/badge/About-ffffff?style=for-the-badge&logo=protonmail&logoColor=0088cc" /></a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=tkemza&label=Views&color=0088cc&style=flat-square&logo=github" alt="views" />
   <img src="https://img.shields.io/badge/Fedora-3c475d?style=flat-square&logo=fedora&logoColor=blue" />
   <img src="https://img.shields.io/badge/Learning-Swift-ff7b3a?style=flat-square&logo=swift&logoColor=red" />
