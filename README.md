@@ -35,7 +35,7 @@ I'm a fullstack developer and UI/UX designer who builds **websites**, **web appl
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,rust,cpp,js,ts,py,lua,swift,nodejs,react,vite,tailwind,figma,ps,illustrator,mysql,docker,vscode&perline=9&theme=light" />
+    <img src="https://skillicons.dev/icons?i=rust,py,cpp,js,swift,lua,nodejs,react,tailwind,figma,ps,illustrator,mysql,docker,vscode&perline=9&theme=light" />
   </a>
 </p>
 
