@@ -25,17 +25,17 @@
 
 ---
 
-### <img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="32" /> - ABOUT
+### <img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="32" /> About
 
 I'm a fullstack developer and UI/UX designer who builds **websites**, **web applications**, **backend systems**, **scripts**, and **software tools**. I care about clean interfaces, solid architecture, and code that holds up under real use. Whether it's a polished frontend, a reliable API, or a low-level utility — I aim for quality over hype.
  
 <br/>
 
-### TECH STACKS:
+### Tech Stacks
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,rust,cpp,js,ts,py,lua,swift,nodejs,react,nextjs,vite,tailwind,figma,ps,illustrator,linux,git,npm,mysql,postgres,docker,clion,vscode,xcode&perline=9&theme=light" />
+    <img src="https://skillicons.dev/icons?i=c,rust,cpp,js,ts,py,lua,swift,nodejs,react,vite,tailwind,figma,ps,illustrator,linux,git,npm,mysql,postgres,docker,clion,vscode&perline=9&theme=light" />
   </a>
 </p>
 
