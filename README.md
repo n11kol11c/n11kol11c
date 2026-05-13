@@ -6,8 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2500&pause=700&color=0088CC&center=true&vCenter=true&width=460&lines=%24+whoami;n11kol11c;UI%2FUX+Designer;Systems+Engineer;%24+Seamless+web+identities+Crafter" />
 </p>
 
-<br/>
-
 <p align="center">
   <a href="https://"><img src="https://img.shields.io/badge/Portfolio-0088cc?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="mailto:matija.dev@proton.me"><img src="https://img.shields.io/badge/Contact-ffffff?style=for-the-badge&logo=protonmail&logoColor=0088cc" /></a>
@@ -21,8 +19,6 @@
   <img src="https://img.shields.io/badge/Learning-Swift-ff7b3a?style=flat-square&logo=swift&logoColor=red" />
   <img src="https://img.shields.io/badge/Editor-CLion_%C2%B7_VSCode_%C2%B7_Xcode-7F52FF?style=flat-square&logo=jetbrains&logoColor=purple" />
 </p>
-
-<br/>
 
 ---
 
