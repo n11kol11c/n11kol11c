@@ -29,7 +29,7 @@ I'm a fullstack developer and UI/UX designer who builds **websites**, **web appl
 <hr>
 <br/>
 
-### Tech Stacks
+### ⚙️ Tech Stacks
 
 <p align="center">
   <a href="https://skillicons.dev">
