@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://"><img src="https://img.shields.io/badge/Portfolio-8FCC9F?style=for-the-badge&logo=googlechrome&logoColor=A18B6C" /></a>
+  <a href="https://"><img src="https://img.shields.io/badge/Portfolio-6C82A1?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="mailto:matija.dev@proton.me"><img src="https://img.shields.io/badge/Contact-ffffff?style=for-the-badge&logo=protonmail&logoColor=0088cc" /></a>
   <a href="https://instagram.com/n11kol11c"><img src="https://img.shields.io/badge/Instagram-8F96CC?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://github.com/n11kol11c/n11kol11c/blob/main/info.md"><img src="https://img.shields.io/badge/About-A19C9C?style=for-the-badge&logo=info&logoColor=0088cc" /></a>
