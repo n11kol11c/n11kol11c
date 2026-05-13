@@ -15,8 +15,7 @@
 </p>
 
 <p align="center">
-  <a href=""><img src="https://img.shields.io/badge/Create+Your+Website-0088cc?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href=""><img src="https://img.shields.io/badge/About-ffffff?style=for-the-badge&logo=protonmail&logoColor=0088cc" /></a>
+  <a href=""><img src="https://img.shields.io/badge/About-ffffff?style=for-the-badge&logo=info&logoColor=0088cc" /></a>
 </p>
 
 <p align="center">
