@@ -19,6 +19,26 @@
   <img src="https://img.shields.io/badge/Learning-Swift-C4614F?style=flat-square&logo=swift&logoColor=orange" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=500&color=0088CC&center=true&vCenter=true&width=435&lines=%24+whoami;n11kol11c+%E2%80%94+Fullstack+Dev;%24+./build+--prod" alt="typing animation" />
+</p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" style="opacity:0.6;" />
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0088cc&height=120&section=header&text=@n11kol11c&fontSize=40&fontColor=ffffff&fontAlignY=30" />
+</p>
+
+<p align="center">
+  <a href="https://"><img src="https://img.shields.io/badge/portfolio-0088cc?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  &nbsp;&nbsp;
+  <a href="mailto:matija.dev@proton.me"><img src="https://img.shields.io/badge/email-ffffff?style=for-the-badge&logo=protonmail&logoColor=0088cc" /></a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/n11kol11c"><img src="https://img.shields.io/badge/instagram-0088cc?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
+
 ---
 
 ### About Me
