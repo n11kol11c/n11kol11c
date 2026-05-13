@@ -29,7 +29,8 @@
 ### <img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="32" /> About
 
 I'm a fullstack developer and UI/UX designer who builds **websites**, **web applications**, **backend systems**, **scripts**, and **software tools**. I care about clean interfaces, solid architecture, and code that holds up under real use. Whether it's a polished frontend, a reliable API, or a low-level utility — I aim for quality over hype.
- 
+
+<hr>
 <br/>
 
 ### Tech Stacks
@@ -39,6 +40,8 @@ I'm a fullstack developer and UI/UX designer who builds **websites**, **web appl
     <img src="https://skillicons.dev/icons?i=rust,py,cpp,js,swift,lua,react,tailwind,figma,ps,illustrator,mysql,docker,vscode&perline=7&theme=light" />
   </a>
 </p>
+
+<hr>
 
 ### 🚀 Let's Connect
 Most websites are built to look good. Mine are engineered to perform under pressure. From glassmorphic aesthetics to bulletproof Node.js backends, I build digital products where failure isn't an option.
