@@ -15,8 +15,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tkemza&label=Views&color=0088cc&style=flat-square&logo=github" alt="views" />
-  <img src="https://img.shields.io/badge/Fedora-3c475d?style=flat-square&logo=fedora&logoColor=blue" />
   <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fedora-3c475d?style=flat-square&logo=fedora&logoColor=blue" />
   <img src="https://img.shields.io/badge/Learning-Swift-ff7b3a?style=flat-square&logo=swift&logoColor=red" />
   <img src="https://img.shields.io/badge/Editor-CLion_%C2%B7_VSCode_%C2%B7_Xcode-7F52FF?style=flat-square&logo=jetbrains&logoColor=purple" />
 </p>
