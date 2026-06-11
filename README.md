@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4,5,6,7,8,9,10&height=160&section=header&text=матија&fontSize=30&fontColor=ffffff&fontAlignY=28&desc=%20%20Fullstack%20%C2%B7%20UI%2FUX%20%C2%B7%20Systems&descSize=16&descAlignY=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20&height=160&section=header&text=матија&fontSize=30&fontColor=ffffff&fontAlignY=28&desc=%20%20Fullstack%20%C2%B7%20UI%2FUX%20%C2%B7%20Systems&descSize=16&descAlignY=50" />
 </p>
 
 <p align="center">
@@ -46,5 +46,5 @@ I'm a fullstack developer and UI/UX designer who builds **websites**, **web appl
 - **Need a reliable developer for your next project?** [Let’s discuss the architecture.](https://)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4,5,6,7,8&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20&height=100&section=footer" />
 </p>
