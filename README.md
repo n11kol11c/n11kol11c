@@ -8,17 +8,17 @@
 
 <p align="center">
   <a href="https://"><img src="https://img.shields.io/badge/Portfolio-A1876C?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="mailto:matija.dev@proton.me"><img src="https://img.shields.io/badge/Contact-ffffff?style=plastic&logo=protonmail&logoColor=0088cc" /></a>
+  <a href="mailto:matija.dev@proton.me"><img src="https://img.shields.io/badge/Contact-ffffff?style=for-the-badge&logo=protonmail&logoColor=0088cc" /></a>
   <a href="https://instagram.com/n11kol11c"><img src="https://img.shields.io/badge/Instagram-8F96CC?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://github.com/n11kol11c/n11kol11c/blob/main/info.md"><img src="https://img.shields.io/badge/About-A19C9C?style=for-the-badge&logo=info&logoColor=0088cc" /></a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tkemza&label=Views&color=0088cc&style=flat-square&logo=github" alt="views" />
-  <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/Fedora-3c475d?style=flat-square&logo=fedora&logoColor=blue" />
-  <img src="https://img.shields.io/badge/Learning-Swift-ff7b3a?style=flat-square&logo=swift&logoColor=red" />
-  <img src="https://img.shields.io/badge/Editor-CLion_%C2%B7_VSCode_%C2%B7_Xcode-7F52FF?style=flat-square&logo=jetbrains&logoColor=purple" />
+  <img src="https://img.shields.io/badge/macOS-000000?style=plastic&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fedora-3c475d?style=plastic&logo=fedora&logoColor=blue" />
+  <img src="https://img.shields.io/badge/Learning-Swift-ff7b3a?style=plastic&logo=swift&logoColor=red" />
+  <img src="https://img.shields.io/badge/Editor-CLion_%C2%B7_VSCode_%C2%B7_Xcode-7F52FF?style=plastic&logo=jetbrains&logoColor=purple" />
 </p>
 
 ---
