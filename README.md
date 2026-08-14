@@ -32,7 +32,7 @@ I'm a fullstack developer and UI/UX designer who builds **websites**, **web appl
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,py,c,cpp,js,swift,lua,react,flutter,ts,bootstrap,supabase,nodejs,dart,mysql,go,docker,vscode,ps,illustrator&perline=10&theme=light" />
+    <img src="https://skillicons.dev/icons?i=rust,c,cpp,py,js,swift,lua,react,flutter,ts,bootstrap,supabase,nodejs,dart,mysql,go,docker,vscode,ps,illustrator&perline=10&theme=light" />
   </a>
 </p>
 
