@@ -28,7 +28,7 @@ I'm a fullstack developer and UI/UX designer who builds **websites**, **web appl
 
 <hr>
 
-### ⚙️ Tech Stacks
+### Tech Stacks
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -38,7 +38,7 @@ I'm a fullstack developer and UI/UX designer who builds **websites**, **web appl
 
 <hr>
 
-### 🚀 Let's Connect
+### Let's Connect
 **Looking for a technical partner for your next mission-critical project?**
 - 📩 Contact Me via Proton Mail: [_`matija.dev@proton.me`_](mailto:matija.dev@proton.me)
 - **Instagram:** [@n11kol11c](https://instagram.com/n11kol11c)
