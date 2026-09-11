@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/macOS-000000?style=plastic&logo=apple&logoColor=white" />
   <img src="https://img.shields.io/badge/Fedora-3c475d?style=plastic&logo=fedora&logoColor=blue" />
   <img src="https://img.shields.io/badge/Learning-Swift-ff7b3a?style=plastic&logo=swift&logoColor=red" />
-  <img src="https://img.shields.io/badge/Editor-CLion_%C2%B7_VSCode_%C2%B7_Xcode-7F52FF?style=plastic&logo=jetbrains&logoColor=purple" />
+  <img src="https://img.shields.io/badge/Editor-JetbrainsIDEs_%C2%B7_VSCode_%C2%B7_Xcode-7F52FF?style=plastic&logo=jetbrains&logoColor=purple" />
 </p>
 
 ---
