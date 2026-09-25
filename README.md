@@ -40,7 +40,7 @@ I'm a fullstack developer and UI/UX designer who builds **websites**, **web appl
 <hr>
 
 ### Let's Connect
-- 📩 **Contact Me via Proton Mail:** [_`matija.dev@proton.me`_](mailto:matija.dev@proton.me)
+- 📩 **Contact me via proton mail:** [_`matija.dev@proton.me`_](mailto:matija.dev@proton.me)
 - **Instagram:** [@n11kol11c](https://instagram.com/n11kol11c)
 - **Looking for a technical and reliable partner for your next mission-critical project?** [Let’s discuss the architecture.](https://)
 <p align="center">
